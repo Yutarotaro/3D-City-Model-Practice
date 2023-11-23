@@ -10,10 +10,15 @@
 ```bash
 git clone git@github.com:Yutarotaro/3D-City-Model-Practice.git
 cd 3D-City-Model-Practice
-python -m http.server
 ```
-open [http://localhost:8000](http://localhost:8000)
+
+- 12-1
+```bash
+cd 12-1
+python -m http.server 8000
+```
+then open [http://localhost:8000](http://localhost:8000)
 
 ## What you need
 - [Blender](https://www.blender.org/)
-    - free and open source 3D creation suite
+    - a free and open source 3D creation suite
