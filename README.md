@@ -10,7 +10,9 @@
 ```bash
 git clone git@github.com:Yutarotaro/3D-City-Model-Practice.git
 cd 3D-City-Model-Practice
+python -m http.server
 ```
+open [http://localhost:8000](http://localhost:8000)
 
 ## What you need
 - [Blender](https://www.blender.org/)
